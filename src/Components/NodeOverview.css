@@ -1,0 +1,51 @@
+.title-node{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    margin: 70px 0 60px 0;
+}
+.what-we-do h4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #000000;
+    display: inline;
+    margin-right: 16px;
+}
+.what-we-do {
+    margin-bottom: 50px;
+}
+.what-we-do h5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.what-we-do p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.what-we-do div{
+    background: #FFFFFF;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 20px;
+    padding: 2px;
+    border: 3px solid #95B9F0;
+    padding: 30px;
+    /* border-image: linear-gradient(90deg, #95B9F0 0%, #D4BFFF 100%); */
+
+
+}

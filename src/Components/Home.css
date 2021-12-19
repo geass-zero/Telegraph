@@ -1,0 +1,353 @@
+.home-banner{
+    background-image: url("./img/home-banner.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.white-btn{
+    background: #FFFFFF !important;
+    border: 1px solid #4365D5 !important;
+    box-sizing: border-box  !important;
+    border-radius: 10px !important;
+    align-items: center !important;
+    padding: 16px 25px !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+    line-height: 18px !important;
+    color: #4365D5 !important;
+}.nft-sale p{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 43px;
+    text-align: center;
+    color: #000000;
+}
+.nft-sale{
+    background: #FFFFFF;
+    box-shadow: 0px 14px 48px rgb(67 101 213 / 18%);
+    border-radius: 10px;
+    padding: 30px;
+    position: absolute;
+    width: 75%;
+    bottom: -95px;
+}
+.nft-box {
+    display: flex;
+    justify-content: center;
+}
+.nft-sale .gredient-btn{
+    background: linear-gradient(
+        90deg, #3463FF 0%, #8349FF 100%);
+            box-shadow: 0px 14px 48px rgb(67 101 213 / 18%);
+            border-radius: 10px;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 15px;
+            line-height: 18px;
+            text-align: center;
+            color: #FFFFFF;
+            padding: 16px 100px;
+            margin: 0 auto;
+            display: table;
+    
+}
+.introp-links{
+    margin-top: 50px;
+}
+.big-font{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    margin:100px 0 90px 0;
+}
+.bridge-one{
+    background: #FFFFFF;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 20px;
+    width: 430px;
+}
+.bridge-two{
+    background: #FFFFFF;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 20px;
+    width: 430px;
+    /* margin: 50px 0; */
+    margin: 50px auto 50px;
+    display: table;
+}
+.slide-top-bottom{
+    position: relative;
+    margin-bottom: 100px;
+}
+.slide-top-bottom .col{
+    position: relative;
+}
+.bridge-one{
+    position: relative;
+    left: -126px;
+}
+.bridge-two{
+    position: relative;
+    right: -225px;
+}
+.line-slide {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* position the div in center */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background: #D7DEFF;
+    width: 3px;
+    height: 50%;
+}
+.one-d{
+    display: flex;
+    align-items: flex-start;
+    padding: 21px 24px 17px 27px;
+    border-left: 2px solid #9FAFFC;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 20px;
+    height:180px;
+
+}
+.one-e{
+    display: flex;
+    align-items: flex-start;
+    padding: 30px 24px 17px 27px;
+    border-right: 2px solid #9FAFFC;
+    box-shadow: 0px 15px 25px rgb(168 178 228 / 17%);
+    border-radius: 20px;
+    justify-content: flex-end;
+    height:180px;
+
+}
+.bridge-one h5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 15px;
+    color: #000000;
+}
+.bridge-two h5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    margin-top: 15px;
+    color: #000000;
+}
+.bridge-one p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #000000;
+}
+.bridge-two p{
+    font-style: normal;
+    text-align: right;
+
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #000000;
+}
+.tele_you{
+    background: #FAFCFF;
+    padding: 100px 0;
+}
+.tele_you h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    margin-bottom: 22px;
+}
+.tele_you p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 60px;
+    color: #000000;
+}
+.social-st-media{
+    border-color: #FFFFFF;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 10px
+}
+.discord img {
+    margin-right: 15px;
+}
+.discord {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #7289DA;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 10px;
+    padding: 22px 22px 17px 22px;
+}
+.discord .e{
+    display: flex;
+    align-items: center;
+}
+.discord h4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #7289DA;
+    margin-top: 7px;
+}
+
+
+
+
+
+.telegram img {
+    margin-right: 15px;
+}
+.telegram {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #2EA5D8;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 10px;
+    padding: 22px 22px 17px 22px;
+}
+.telegram .e{
+    display: flex;
+    align-items: center;
+}
+.telegram h4{
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 7px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2EA5D8;
+}
+
+
+
+.github img {
+    margin-right: 15px;
+}
+.github {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #1B1817;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 10px;
+    padding: 22px 22px 17px 22px;
+}
+.github .e{
+    display: flex;
+    align-items: center;
+}
+.github h4{
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 7px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1B1817;
+}
+
+
+
+.twitter img {
+    margin-right: 15px;
+}
+.twitter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #1D9BF0;
+    box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
+    border-radius: 10px;
+    padding: 30px 22px 19px 22px;
+}
+.twitter .e{
+    display: flex;
+    align-items: center;
+}
+.twitter h4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 7px;
+    line-height: 24px;
+    color: #1D9BF0;
+}
+
+
+.one-d img {
+    margin-right: 20px;
+}
+.one-e img {
+    margin-left: 20px;
+}
+.intero-p{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin: 250px 0px 35px 0px;
+}
+.banner-box h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+}
+.introp-links div a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #545F92;
+}
+.introp-links div{
+    border-bottom: 1px solid #EAEAF9;
+    padding: 12px 0;
+}
+.banner-box p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+.blue-btn.e{
+    margin-right: 20px !important;
+}
