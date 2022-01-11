@@ -138,7 +138,7 @@ hr{
 .copy-rights{
   display: flex;
   justify-content: space-between;
-  margin: 70px 0px 70px 0;
+  margin: 70px 0px 0 0;
   user-select: auto;
 }
 .copy-rights p{

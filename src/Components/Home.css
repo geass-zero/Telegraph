@@ -1,14 +1,8 @@
 .home-banner{
     background-image: url("./img/home-banner.jpg");
-    background-repeat: no-repeat;
-    /* background-attachment: fixed; */
     background-size: cover;
-    height: 97vh;
-    display: flex;
-    align-items: center;
-    position: relative;
 }
-.white-btn{
+/* .white-btn{
     background: #FFFFFF !important;
     border: 1px solid #4365D5 !important;
     box-sizing: border-box  !important;
@@ -82,10 +76,10 @@
     border-radius: 20px;
     width: 430px;
     /* margin: 50px 0; */
-    margin: 50px auto 50px;
-    display: table;
-}
-.slide-top-bottom{
+    /* margin: 50px auto 50px; */
+    /* display: table; */
+/* } */
+/* .slide-top-bottom{
     position: relative;
     margin-bottom: 100px;
 }
@@ -99,24 +93,24 @@
 .bridge-two{
     position: relative;
     right: -225px;
-}
-.line-slide {
+} */
+/* .line-slide {
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     
     /* position the div in center */
-    position: absolute;
+    /* position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 
     background: #D7DEFF;
     width: 3px;
-    height: 50%;
-}
-.one-d{
+    height: 50%; */
+/* } */
+/* .one-d{
     display: flex;
     align-items: flex-start;
     padding: 21px 24px 17px 27px;
@@ -125,8 +119,8 @@
     border-radius: 20px;
     height:180px;
 
-}
-.one-e{
+} */
+/* .one-e{
     display: flex;
     align-items: flex-start;
     padding: 30px 24px 17px 27px;
@@ -160,8 +154,8 @@
     font-size: 15px;
     line-height: 23px;
     color: #000000;
-}
-.bridge-two p{
+} */
+/* .bridge-two p{
     font-style: normal;
     text-align: right;
 
@@ -183,8 +177,8 @@
     text-transform: capitalize;
     color: #000000;
     margin-bottom: 22px;
-}
-.tele_you p{
+} */
+/* .tele_you p{
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -197,8 +191,8 @@
     border-color: #FFFFFF;
     box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
     border-radius: 10px
-}
-.discord img {
+} */
+/* .discord img {
     margin-right: 15px;
 }
 .discord {
@@ -209,8 +203,8 @@
     box-shadow: 0px 15px 25px rgba(168, 178, 228, 0.17);
     border-radius: 10px;
     padding: 22px 22px 17px 22px;
-}
-.discord .e{
+} */
+/* .discord .e{
     display: flex;
     align-items: center;
 }
@@ -222,12 +216,12 @@
     color: #7289DA;
     margin-top: 7px;
 }
+ */
 
 
 
 
-
-.telegram img {
+/* .telegram img {
     margin-right: 15px;
 }
 .telegram {
@@ -283,8 +277,8 @@
 
 .twitter img {
     margin-right: 15px;
-}
-.twitter {
+} */
+/* .twitter {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -336,8 +330,8 @@
     font-size: 15px;
     line-height: 22px;
     color: #545F92;
-}
-.introp-links div{
+} */
+/* .introp-links div{
     border-bottom: 1px solid #EAEAF9;
     padding: 12px 0;
 }
@@ -350,4 +344,4 @@
 }
 .blue-btn.e{
     margin-right: 20px !important;
-}
+}  */
